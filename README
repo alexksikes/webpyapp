@@ -1,0 +1,8 @@
+The is some skeleton code in order to get you started quickly with webpy.
+The files are organized just like Ruby on Rails.
+
+After installing webpy simply run:
+python application.py
+
+Or using lightty for production run:
+sudo /usr/sbin/lighttpd -f config/lighttpd.conf

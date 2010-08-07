@@ -1,0 +1,48 @@
+/* reset defaults */
+body, h3, ul, li, form {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+a {
+    color : #0000CC;
+}
+
+a img {
+	border: 0pt;
+}
+
+li {
+    list-style: none;
+    display: inline;
+}
+
+input.radio {
+    margin: 0px 3px 0px 0px;
+    position: relative;
+    top: 3px;
+}
+
+a.animated {
+    text-decoration: none;
+}
+
+a.animated:hover {
+    text-decoration: underline;
+}
+
+a.external {
+    padding-right: 13px;
+    background: url(/img/external.png) no-repeat right;
+}
+
+.content {
+    padding: 10px;
+    padding-bottom: 15px;
+}
+/* reset defaults */
